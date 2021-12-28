@@ -70,15 +70,6 @@ table {
   border-collapse: collapse;
 }
 th, td {
-  border-right: 1px solid grey;
-}
-th:first-child, td:first-child {
-  border-left: 1px solid grey;
-}
-tr {
-  border-bottom: 1px solid grey;
-}
-tr:first-child {
-  border-top: 1px solid grey;
+  border: 1px solid grey;
 }
 </style>
